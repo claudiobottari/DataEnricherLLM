@@ -15,8 +15,7 @@ class WebReader():
             search_results = search(query, num_results=self.nresults)
             
             for url in search_results:
-                urls.append((query, url))
-                
+                urls.append((query, url))           
             time.sleep(1)
         
         return list(set(urls))
