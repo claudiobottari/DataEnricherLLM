@@ -1,0 +1,10 @@
+openai==0.29.0
+python-dotenv==0.19.1
+bs4==0.0.1
+requests==2.26.0
+tiktoken==0.4.0
+spacy==3.6.0
+
+pyperclip==1.8.2
+cleantext=1.1.4
+pandas=
