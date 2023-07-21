@@ -1,0 +1,196 @@
+What new species have been discovered in the past year?
+
+--------------------------------------------------------------------------------
+There have been several new species discovered in the past year across various taxonomic groups. Here are a few notable examples:
+
+1. Oculudentavis khaungraae: This tiny bird-like dinosaur was discovered preserved in amber from Myanmar. It was initially thought to be the smallest known dinosaur, but its classification is still debated.
+
+2. Rhinopithecus strykeri: Also known as the Myanmar snub-nosed monkey, this critically endangered primate species was discovered in Myanmar's Kachin state. It is characterized by its upturned nose and prominent lips.
+
+3. Dendrogramma enigmatica: This mysterious deep-sea organism was discovered off the coast of Australia. It is a multicellular animal with a unique body plan, but its exact classification is still uncertain.
+
+4. Trichopria bombycis: This parasitic wasp species was discovered in India. It preys on the eggs of the silkworm moth and has potential applications in biological pest control.
+
+5. Lasiognathus dinema: This deep-sea anglerfish species was discovered in the Gulf of Mexico. It has a unique bioluminescent lure on its head to attract prey in the dark depths.
+
+These are just a few examples, and many more new species are constantly being discovered and described by scientists around the world.
+
+--------------------------------------------------------------------------------
+
+In the context of the information delimited by <START> and <END> tags, please answer the subsequent question.
+Be as clear and specific as possible, making use of all provided details.
+If you use any information delimited by <START> and <END> tags, please cite the source url which is written between brackets.
+
+Question: What new species have been discovered in the past year?
+
+Information:
+<START>
+[https://www.worldwildlife.org/stories/380-new-species-discovered-in-the-greater-mekong-in-2021-and-2022]
+In the past year, 380 new species have been discovered in the Greater Mekong region of Southeast Asia, including Cambodia, Laos, Myanmar, Thailand, and Vietnam. These new species include a color-changing lizard, a thick-thumbed bat, a venomous snake named after a Chinese mythological goddess, an orchid that resembles a Muppet, and a tree frog with moss-like skin. The discoveries were made by hundreds of scientists from universities, conservation organizations, and research institutes. The new species include 290 plants, 19 fishes, 24 amphibians, 46 reptiles, and one mammal. This brings the total number of described species in the Greater Mekong region since 1997 to 3,389. However, many of these species are already under threat of extinction due to human activities, and WWF is calling on governments in the region to increase protection for these rare creatures and their habitats. WWF works with various partners to protect flagship species and their habitats, and to address issues such as wildlife trafficking and illegal wildlife markets.
+<END>
+
+<START>
+[https://www.discoverwildlife.com/news/new-species-in-2021/]
+In the past year, several new species have been discovered by scientists. Some of these include:
+
+1. Screaming tree frog (Litoria quiritatus) in Australia: This new species was identified through analysis of frog call recordings. It is one of three different species that were previously thought to be the same.
+
+2. Leaf-litter ant (Strumigenys collinsae) in the USA: This ant species was found in Colorado and is one of six newly described Strumigenys species. It can be distinguished from other North American species by its dentition.
+
+3. Churah Valley kukri snake (Oligodon churahensis) in India: This snake species was discovered after an Instagram post caught the attention of a scientist. Further analysis revealed that it was a previously undescribed species.
+
+4. Star octopus (Octopus djinda) in Australia: This new species of octopus was found to be distinct from the gloomy octopus. It was previously believed that the gloomy octopus was found worldwide, but taxonomic work revealed separate species within the group.
+
+5. Horsehair worm (Acutogordius olivetti) in Peru: This species of horsehair worm was discovered after emerging from a bush-cricket attracted to a light trap. It is one of eight horsehair worm species now known from Peru.
+
+6. Ramari's beaked whale (Mesoplodon eueu) in the Southern Hemisphere: Indigenous knowledge and scientific research confirmed that this beaked whale species is distinct from the True's beaked whale found in the North Atlantic. It brings the total number of beaked whale species to 24.
+
+7. Weevil (Trigonopterus ewok) in Sulawesi: A total of 28 new species of weevils were described from Sulawesi. These flightless weevils were collected during field trips and given names from various sources, including Star Wars characters.
+
+8. Tiger beetle (Eunota mecocheila) in Mexico: This beautifully colored tiger beetle species was found in saline and muddy ditches in northern Mexico. Little is known about its distribution, but it may also be found in west Texas.
+
+9. Gem orchid (Corybas papillatus) in Thailand: This tiny gem orchid was discovered near the summit of Khao Luang Mountain in southern Thailand. It is only the third species of the Corybas genus to be described from the country.
+
+10. Nujian pit viper (Gloydius lipipengi) in China: This venomous snake species is one of two new species described in the Gloydius genus. The number of species in this genus has now increased to 23.
+
+11. Wallace's Sphinx moth (Xanthopan praedicta) in Madagascar: This moth species has the longest proboscis in the world and is named after Alfred
+<END>
+
+<START>
+[https://www.discoverwildlife.com/news/new-species-in-2021/]
+The following new species have been discovered in the past year:
+
+1. Moss (Bryum bharatiense) in Antarctica: Discovered during a six-month-long expedition in 2017, this moss species was confirmed as a previously undescribed species after five years of study.
+
+2. Feiruz wood lizard (Enyaliodies feiruzae) in Peru: This dragon-like lizard species was formally described after seven years of field studies. It is found in the basin of the Huallaga River in the Peruvian Andes.
+
+3. Killer tobacco plant (Nicotiana insecticida) in Australia: One of seven newly described species in the Nicotiana genus, this wild tobacco plant is covered in sticky glands that capture and kill small insects.
+
+4. Frog (Synapturanus zombie) in Guinea Shield: This underground-dwelling frog is one of three new Synapturanus species found in the Guiana Shield region of South America.
+
+5. Brittlestar (Ophiojura exbodi) in the southwest Pacific Ocean near New Caledonia: This brittlestar is the only living representative of a lineage that split from its closest relatives 180 million years ago.
+
+6. Benin tree hyrax (Dendrohyrax interfluvialis) in West Africa: The barking calls of these tree hyraxes in southeastern Ghana, southern Togo and Benin, and southwestern Nigeria are distinct from other tree hyrax species.
+
+7. Ant (Strumigenys ayersthey) in Ecuador: This trap-jaw ant was named after artist Jeremy Ayers and uses the suffix "-they" instead of the conventional suffixes "-ae" or "-i" when naming a species after a person.
+
+8. Centipede (Scolopendra alcyona) in Japan: This amphibious centipede is the first new centipede to be described from Japan in 143 years.
+
+9. Greta spiders (Thunberga) in Madagascar and Mayotte: The huntsman spider genus Thunberga was named after Swedish environmentalist Greta Thunberg and now contains 26 species.
+
+10. Chameleon (Tricoeros wolfgangbeohmei) in Ethiopia: This relatively small chameleon species is endemic to the Bale Mountains in Ethiopia.
+
+11. Snake (Stegonotus aplini) in Papua New Guinea: This snake species has a unique coloration pattern, transitioning from milk-white to coffee-brown along its length.
+
+12. Chameleon (Brookesia nana) in Madagascar: This tiny chameleon is possibly the smallest reptile on Earth, with a body length of just 13.5mm.
+
+13. Bat (Myotis nimbaensis) in Guinea: This large orange and black bat species was discovered in the Nimba Mountains and is likely to be Critically Endangered.
+
+These are the new species discovered in the past year as mentioned in the provided text.
+<END>
+
+<START>
+[https://www.positive.news/society/in-pictures-10-unusual-species-discoveries-of-2022/]
+In the past year, several new species have been discovered. Some notable examples include:
+
+1. Cirrhilabrus finifenmaa: A colorful reef fish from the Maldives, named by a Maldivian scientist. It is already being sold for the aquarium trade.
+
+2. Otus bikegila: A new species of scops owl found on the small island of Principe in Africa's Gulf of Guinea. It has a distinctive call and is proposed to be classified as critically endangered.
+
+3. Anemone species: A newly described species of anemone found off the coast of Japan. It appears to live exclusively on the shells of one hermit crab species, forming an obligate symbiotic relationship.
+
+4. Carpotroche caceresiae: A tree species found in the rainforests of Nicaragua and Honduras, named after Indigenous activist Berta Isabel Caceres Flores. It is assessed as near threatened with extinction.
+
+5. New species of sunbirds: Several new species of sunbirds were found in the Wakatobi Islands in central Indonesia. These findings highlight the need to protect the islands as an endemic bird area.
+
+6. Taksinus bambus: A new genus of tarantula found in Thailand. It lives inside bamboo stalks and is the first known species found on only one bamboo species.
+
+7. Victoria boliviana: The world's largest waterlily, measuring 3.3 meters across. It is found in the wetlands of the Bolivian Amazon and is assessed as vulnerable to extinction.
+
+8. Synapturanus danta: A new species of burrowing frog found in the Peruvian Amazon. It has a distinctive-looking snout and is known as the tapir frog.
+
+9. Eugenia paranapanemensis: A new tree species found in Brazil's Atlantic Forest. It is considered critically endangered due to habitat destruction.
+
+10. Tlalocohyla celeste: A tiny green tree frog found in a rewilded nature reserve in Costa Rica. Its only known habitat is the wetland within the reserve, and it is assessed as critically endangered.
+
+These are just a few examples of the new species discovered in the past year, highlighting the ongoing exploration and discovery of biodiversity around the world.
+<END>
+
+<START>
+[https://www.lifegate.com/10-new-species-discovered-2022]
+In the past year, several new species have been discovered. Some of these include:
+
+1. Wakatobi sunbird (Cinnyris infrenatus): This new species of passerine bird was discovered in the central Indonesian archipelago of Wakatobi. The islands in this region are home to many endemic bird species.
+
+2. Tapir frog (Synapturanus danta): This frog species was discovered in the Peruvian Amazon rainforest and is reminiscent of the chocolate frogs in the Harry Potter series. It has a unique nose and its discovery has led to the protection of a forest area.
+
+3. Queen's hedgehog fungus (Hydnum reginae): This fungus, previously known as Hydnum albidum, was thought to be widespread in Europe and America. However, genetic analyses have revealed clear differences between the two variants. It has been named Queen's hedgehog in honor of Queen Elizabeth II.
+
+4. Victoria boliviana: This plant is an enormous waterlily with leaves that reach over 3 meters in length. It has been classified as vulnerable and requires conservation efforts.
+
+5. Rainbow-colored fish (Cirrhilabrus finifenmaa): This dazzling fish species was discovered in the Maldives. It was previously sold as an aquarium fish before its unique status was discovered.
+
+6. Southern maned sloth (Bradypus crinitus): This sloth species, previously known as the maned sloth, has been subdivided into two different species based on DNA analysis and behavioral differences. It is endemic to Brazil's Atlantic forest.
+
+7. Eight new species of gecko (Lygodactylus madagascariensis): These gecko species were discovered in Madagascar. Scientists believe that there may be as many as 18 different genetic differentiations among them.
+
+8. Anemone species (Stylobates calcifer): This new species of anemone was discovered in Japanese waters. It lives on the shells of one species of hermit crab and is believed to have a symbiotic relationship with the crab.
+
+9. Bambootula tarantula (Taksinus bambus): This tarantula species was discovered by a Thai naturalist YouTuber. It lives inside bamboo stalks belonging to the genus Gigantochloa.
+
+10. Principe scops owl (Otus bikegila): This new species of scops owl was discovered on the island of Principe in the Gulf of Guinea. It is suggested to be critically endangered due to its limited population.
+
+These are just some of the new species discovered in the past year, highlighting the ongoing exploration and discovery of Earth's biodiversity.
+<END>
+
+<START>
+[https://www.discoverwildlife.com/news/new-species-discovered-this-year/]
+In the past year, several new species have been discovered. Some of these include:
+
+1. DiCaprio's snail-eating snake (Sibon irmelindicaprioae): This tree-dwelling snake was discovered in Panama and Colombia. It is classified as Near Threatened and is known from 16 localities.
+
+2. Stream treefrog (Hyloscirtus tolkieni): This frog species was found in Ecuador and is named in honor of J.R.R. Tolkien. It is a rare species, with only one individual found so far.
+
+3. Bent-toed gecko (Cyrtodactylus santana): This gecko species was discovered in the Democratic Republic of Timor-Leste. It was found in the Lene Hara cave in Nino Konis Santana National Park.
+
+4. Gymnures (Podogymnura intermedia and P. minima): These mammal species, also known as hairy hedgehogs or moonrats, were found in the Philippines. P. intermedia is intermediate in size and fur color between other species in the genus.
+
+These are just a few examples of the new species discovered in the past year. There may be many more yet to be described.
+<END>
+
+<START>
+[https://now.northropgrumman.com/whos-new-in-the-zoo-5-new-species-discovered-in-2021/]
+In the past year, several new species have been discovered. Here are five of them:
+
+1. Emperor Dumbo Octopus (Grimpoteuthis imperator): This octopus was found in the Emperor Seamounts of Japan. It was first discovered in July 2016 and was confirmed as a new species through detailed examination of its physical characteristics.
+
+2. Bright Orange Bat (Myotis nimbaensis): This bat was found in the Nimba Mountains and has a bright orange and black coloration. It was identified as a new species through molecular, morphological, and echolocation studies.
+
+3. Nano-Chameleon (Brookesia nana): This tiny reptile species was discovered in Madagascar. The male of this species is only 22 millimeters long and has genitals that account for 18.5% of its body size.
+
+4. Zombie Frog (Synapturanus zombie): This nocturnal frog was found in the Amazon rainforest. It was discovered by herpetologist Raffael Ernst during a period of heavy rain. The frog's name is a reference to the researchers' muddy appearance after digging it out of the soil.
+
+5. RuPaul Rainbow Fly (Opaluma rupaul): This Soldier Fly was named after the Drag Race icon due to its iridescent colors and long legs. It was found in Southeast Queensland and is part of the local ecosystem.
+
+These are just a few examples of the new species that have been discovered in the past year. The process of identifying new species involves comparing them to already known species and determining if they have enough distinct characteristics to be classified as a separate species.
+<END>
+
+
+--------------------------------------------------------------------------------
+The new species discovered in the past year include:
+
+1. Color-changing lizard, thick-thumbed bat, venomous snake, orchid, and tree frog with moss-like skin in the Greater Mekong region of Southeast Asia. [source: https://www.worldwildlife.org/stories/380-new-species-discovered-in-the-greater-mekong-in-2021-and-2022]
+
+2. Screaming tree frog, leaf-litter ant, Churah Valley kukri snake, star octopus, horsehair worm, Ramari's beaked whale, weevil, tiger beetle, gem orchid, Nujian pit viper, Wallace's Sphinx moth, and other species. [source: https://www.discoverwildlife.com/news/new-species-in-2021/]
+
+3. Moss, Feiruz wood lizard, killer tobacco plant, frog, brittlestar, Benin tree hyrax, ant, centipede, Greta spiders, chameleon, snake, bat, and other species. [source: https://www.discoverwildlife.com/news/new-species-in-2021/]
+
+4. Cirrhilabrus finifenmaa, Otus bikegila, anemone species, Carpotroche caceresiae, new species of sunbirds, Taksinus bambus, Victoria boliviana, Synapturanus danta, Eugenia paranapanemensis, Tlalocohyla celeste, and other species. [source: https://www.positive.news/society/in-pictures-10-unusual-species-discoveries-of-2022/]
+
+5. Wakatobi sunbird, tapir frog, Queen's hedgehog fungus, Victoria boliviana, rainbow-colored fish, Southern maned sloth, eight new species of gecko, anemone species, Bambootula tarantula, Principe scops owl, and other species. [source: https://www.lifegate.com/10-new-species-discovered-2022]
+
+6. DiCaprio's snail-eating snake, stream treefrog, bent-toed gecko, and gymnures. [source: https://www.discoverwildlife.com/news/new-species-discovered-this-year/]
+
+7. Emperor Dumbo Octopus, Bright Orange Bat, Nano-Chameleon, Zombie Frog, and RuPaul Rainbow Fly. [source: https://now.northropgrumman.com/whos-new-in-the-zoo-5-new-species-discovered-in-2021/]
+
+These are some of the new species discovered in the past year, as mentioned in the provided sources.
