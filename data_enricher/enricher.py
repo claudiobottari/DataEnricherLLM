@@ -6,8 +6,8 @@ import json
 import pyperclip
 import logging
 
-DEFAULT_NSEARCHES = 3
-DEFAULT_NRESULTS = 5
+DEFAULT_NSEARCHES = 2
+DEFAULT_NRESULTS = 3
 
 class Enricher:
     def __init__(self, nsearches: int = DEFAULT_NSEARCHES, nresults: int = DEFAULT_NRESULTS, verbose: bool = False, clipboard: bool = False):
@@ -108,4 +108,4 @@ class Enricher:
             pyperclip.copy(enriched_prompt)
 
         # finally return the LLM output from the enriched prompt
-        return self.llm_api.get_completion(enriched_prompt)
+        return self.llm_api.get_completion(enriched_prompt), enriched_prompt

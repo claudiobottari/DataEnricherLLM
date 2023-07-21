@@ -1,0 +1,157 @@
+What's the current status of international efforts to combat climate change?
+
+---------------------------------------------
+The current status of international efforts to combat climate change can be summarized as follows:
+
+1. Paris Agreement: The Paris Agreement, adopted in 2015, is a landmark international treaty aimed at limiting global warming to well below 2 degrees Celsius above pre-industrial levels. As of now, 197 countries have ratified the agreement, including major emitters like the United States, China, and the European Union.
+
+2. Nationally Determined Contributions (NDCs): Under the Paris Agreement, countries submit their own voluntary climate action plans known as NDCs. These plans outline the steps each country will take to reduce greenhouse gas emissions and adapt to climate change. Many countries have updated their NDCs to enhance their climate targets, while some are still in the process of doing so.
+
+3. COP26: The 26th UN Climate Change Conference of the Parties (COP26) was scheduled to take place in 2020 but was postponed to November 2021 due to the COVID-19 pandemic. COP26 is expected to be a crucial event where countries will assess progress, negotiate further actions, and discuss financial support for developing nations.
+
+4. Global Climate Action: Various global initiatives and alliances have emerged to accelerate climate action. These include the Global Climate Action Agenda, the Race to Zero campaign, and the Climate Ambition Alliance. These initiatives aim to mobilize non-state actors, such as cities, businesses, and civil society, to contribute to emissions reductions and sustainable development.
+
+5. Financial Support: Developed countries committed to mobilizing $100 billion per year by 2020 to support climate action in developing nations. However, this target has not been fully met, and discussions continue on how to enhance climate finance and support vulnerable countries in adapting to climate impacts.
+
+6. Challenges and Gaps: Despite progress, there are challenges and gaps in international efforts. Some countries have not yet ratified the Paris Agreement, and there is a need for increased ambition in emission reduction targets. Additionally, the COVID-19 pandemic has diverted attention and resources away from climate action, making it crucial to ensure a green recovery.
+
+Overall, while international efforts to combat climate change have gained momentum, there is still a need for stronger commitments, increased financial support, and enhanced collaboration to effectively address the global climate crisis.
+
+---------------------------------------------
+In the context of the information delimited by <START> and <END> tags, please answer the subsequent question.
+Be as clear and specific as possible, making use of all provided details.
+If you use any information delimited by <START> and <END> tags, please cite the source url which is written between brackets.
+
+Question: What's the current status of international efforts to combat climate change?
+
+Information:
+<START>
+[https://www.planete-energies.com/en/media/article/international-efforts-combat-climate-change]
+The current status of international efforts to combat climate change includes several key initiatives and agreements. 
+
+1. The World Climate Research Programme (WCRP) was established in 1980 to advance climate science and numerical simulation of atmospheric and oceanic phenomena.
+
+2. The Intergovernmental Panel on Climate Change (IPCC) was created in 1988 by the United Nations to share scientific knowledge and provide up-to-date reports on climate change.
+
+3. The Rio Earth Summit in 1992 marked the beginning of global efforts to combat climate change, with the signing of the United Nations Framework Convention on Climate Change (UNFCCC) by 166 countries.
+
+4. The Kyoto Protocol, adopted in 1997, aimed to reduce greenhouse gas emissions by 5.2% compared to 1990 levels. It came into effect in 2005.
+
+5. The European Union launched the European Union Emissions Trading System in 2005, allowing companies to trade emission allowances to reduce carbon emissions.
+
+6. The Copenhagen Climate Change Conference in 2009 defined the maximum acceptable increase in global temperature as 2°C above pre-industrial levels, but failed to reach a binding agreement on emissions reduction targets.
+
+7. The Cancun Climate Change Conference in 2010 established the Green Climate Fund to support developing countries in combating climate change and deforestation.
+
+8. The Paris Agreement, adopted in 2015, set the goal of limiting global warming to "well below" 2°C and emphasized the role of developed countries in providing financial support and technology transfers to developing countries.
+
+9. The IPCC published three comprehensive reports in 2018 and 2019, highlighting the consequences of climate change and strengthening the resolve for voluntary measures.
+
+10. The European Green Deal, adopted in 2019, aims for carbon neutrality in the European Union by 2050.
+
+11. China pledged to peak emissions before 2030 and achieve carbon neutrality by 2060, while the United States rejoined international efforts under President Joe Biden in 2021.
+
+Overall, international efforts to combat climate change have evolved over time, with agreements and initiatives focusing on emissions reduction, financial support, and technology transfer to address the global challenge of climate change.
+<END>
+
+<START>
+[https://www.imperial.ac.uk/grantham/publications/climate-change-faqs/what-are-the-worlds-countries-doing-about-climate-change/]
+The current status of international efforts to combat climate change includes the following information:
+
+1. Limiting global warming to 1.5degC above pre-industrial temperatures requires reaching net zero CO2 emissions by 2050 in every country, regardless of size.
+
+2. Major emitters like China and India have signed the Paris Agreement and are taking action on climate change. China has committed to reaching carbon neutrality by 2060 and has reduced coal mining capacity. India has set a target to install 175 gigawatts of renewable energy generators by 2022.
+
+3. In the United States, emissions levels have started to decline since 2005, although there was a rise in energy-related carbon dioxide emissions between 2017 and 2018. The decision by President Donald Trump to withdraw from the Paris Agreement was reversed by the Biden Administration.
+
+4. The UK has the opportunity to lead on climate change by taking early action to decrease emissions. This can position the UK to compete and prosper in the growing market for zero-carbon goods and services. The UK has already achieved economic growth while reducing greenhouse gas emissions.
+
+5. Some analysts suggest that the UK should lower its emissions faster than other countries due to its historic responsibility for causing climate change.
+
+Overall, international efforts to combat climate change involve countries taking action to reduce emissions and transition to a zero-carbon future. The UK has the opportunity to lead in this transition and benefit economically from the growing market for zero-carbon goods and services.
+<END>
+
+<START>
+[https://unfccc.int/news/climate-plans-remain-insufficient-more-ambitious-action-needed-now]
+The current status of international efforts to combat climate change is that there is a global consensus on the need to address this issue. The Paris Agreement, which was adopted in 2015, is a key international agreement aimed at reducing greenhouse gas emissions and limiting global warming. Many countries have ratified the agreement and are taking steps to implement their commitments. However, there are challenges in achieving the goals set out in the agreement, including the need for increased ambition and financial support. Additionally, there is a recognition of the importance of collaboration and cooperation among countries to effectively combat climate change. Overall, while progress has been made, there is still much work to be done to address this global challenge.
+<END>
+
+<START>
+[https://www.worldwildlife.org/initiatives/climate]
+The current status of international efforts to combat climate change includes the following information:
+
+1. People around the world are calling on leaders to take action on climate change. The impacts of climate change, such as shrinking freshwater supplies, dropping agricultural yields, and rising oceans, are already being felt.
+
+2. WWF believes that we can fight climate change and build a safer, healthier, and more resilient future for people and nature. This requires rethinking the way we produce and consume energy, food, and water, protecting forests, and helping people prepare for a changing world.
+
+3. Businesses are making investments in clean energy, creating local jobs and stronger economies. Communities are redesigning infrastructure to be climate resilient.
+
+4. Nations around the world are committed to delivering on the Paris Agreement, a landmark global plan to curb climate change. WWF has engaged with millions of Americans, leading businesses, and government leaders to reduce emissions and prepare for inevitable change.
+
+5. Climate change is already having a significant impact on wild animals, altering their life cycles and leading to extinction in some cases. WWF works to help species adapt to a changing world by considering the health and wellbeing of their habitats.
+
+6. Climate change imposes heavy burdens on front-line communities living in vulnerable areas. By demanding cuts to pollution and providing access to green jobs, a fair transition to a clean energy economy can be achieved.
+
+7. Climate change is destabilizing food production, displacing people, and threatening shorelines. The Paris Agreement is the world's collective response to addressing climate change, and while the US government has signaled its intention to withdraw, cities, states, and businesses are working with world leaders to turn the promise of the agreement into concrete action.
+
+8. American taxpayers are paying the price for weather disasters and crop failures associated with a warming world. However, leading businesses, cities, and states are taking the lead on climate action by investing in clean renewable energy and creating jobs.
+
+9. Climate change is altering patterns of weather and water, causing shortages and droughts in some areas and floods in others. WWF encourages individuals to learn about their water footprint and make choices that minimize their impact on water resources.
+
+10. The health of our oceans is crucial for both people and wildlife, but warmer oceans are driving stronger storms and bleaching coral reefs. WWF works to protect the oceans and enhance ecosystem resilience to climate change.
+
+11. The Arctic is warming twice as fast as the rest of the Earth, leading to cascading consequences worldwide. WWF works to conserve the Arctic by protecting it from offshore development, reducing pollution, and enhancing ecosystem resilience.
+
+12. WWF's focus on addressing the climate crisis includes building a low-carbon economy, preparing for a changing world, and delivering on the promise of the Paris Agreement. This involves setting emissions reduction goals, transitioning to renewable energy, and supporting developing countries in their clean energy transition.
+
+13. Forests play a crucial role in combating climate change by absorbing carbon dioxide. WWF works to save forests and fight climate change by supporting responsible forest management, ending illegal logging, and ensuring global climate change agreements reduce forest loss and degradation.
+
+Overall, international efforts to combat climate change involve a combination of individual actions, business investments, government commitments, and conservation efforts to reduce emissions, prepare for the impacts of climate change, and protect natural resources.
+<END>
+
+<START>
+[https://www.cfr.org/backgrounder/paris-global-climate-change-agreements]
+The current status of international efforts to combat climate change is that countries have been engaged in negotiations and have reached several important agreements, including the Kyoto Protocol and the Paris Agreement. However, experts argue that these efforts are not sufficient to limit dangerous global warming. The Paris Agreement, in particular, is seen as inadequate to prevent the global average temperature from rising 1.5 degrees Celsius, which would lead to devastating consequences such as heat waves and floods. Countries have set emissions reduction targets, known as nationally determined contributions (NDCs), but these pledges are not ambitious enough to prevent catastrophic warming or adapt to its consequences. There is a consensus among the scientific community about the reality of climate change and its causes, although some politicians, particularly in the United States, deny its existence. The consequences of climate change include heat waves, droughts, floods, rising sea levels, ocean acidification, Arctic ice thaw, and species loss. The international community recognizes the need to keep global temperature rise below 1.5 degrees Celsius, but current commitments are insufficient to achieve this goal. There is ongoing debate about which countries are most responsible for climate change and should bear the burden of emissions reductions. The Paris Agreement is seen as a first step, but additional action is needed, and some experts suggest exploring alternative approaches such as sector-specific agreements or the creation of a climate club to incentivize compliance.
+<END>
+
+<START>
+[https://www.wfp.org/stories/climate-action-whats-new-and-whats-next-2023]
+The current status of international efforts to combat climate change includes the following information:
+
+- In 2022, there were record-breaking temperatures, floods, droughts, and storms that devastated many regions of the world.
+- The World Food Programme (WFP) provided food and assistance to over 160 million people affected by climate disasters.
+- WFP supported communities in over 30 countries to better anticipate and prepare for climate impacts through insurance payouts and cash assistance.
+- Climate change is increasingly influencing the world's emergencies, posing challenges for humanitarian responders like WFP.
+- The UN Secretary-General is convening a "no-nonsense" climate action summit in September 2023 to focus on concrete solutions and collective action.
+- The 28th UN Climate Change Conference (COP28) in December 2023 is expected to bring new, more ambitious commitments to lower emissions and protect people from loss and damage.
+- A loss and damage fund was established at COP27 to compensate vulnerable countries on the frontlines of the climate crisis, and its setup and financing will be recommended by a multi-nation committee at COP28.
+- Scaling up climate adaptation solutions for vulnerable communities is crucial, as the planet heats up and more people face acute food insecurity.
+- WFP's climate insurance program aims to provide coverage to at least three million vulnerable people in 2023, and their anticipatory action program aims to cover five million people by 2025.
+- Renewed energy from communities, governments, scientists, and development partners can create a better, more sustainable future in the face of climate change.
+<END>
+
+
+---------------------------------------------
+The current status of international efforts to combat climate change includes several key initiatives and agreements. These efforts involve countries taking action to reduce emissions, transition to renewable energy sources, and prepare for the impacts of climate change. Some notable initiatives and agreements include:
+
+1. The World Climate Research Programme (WCRP) and the Intergovernmental Panel on Climate Change (IPCC) were established to advance climate science, share knowledge, and provide up-to-date reports on climate change.
+
+2. The United Nations Framework Convention on Climate Change (UNFCCC) was signed by 166 countries at the Rio Earth Summit in 1992, marking the beginning of global efforts to combat climate change.
+
+3. The Kyoto Protocol, adopted in 1997, aimed to reduce greenhouse gas emissions by 5.2% compared to 1990 levels. It came into effect in 2005.
+
+4. The European Union launched the European Union Emissions Trading System in 2005, allowing companies to trade emission allowances to reduce carbon emissions.
+
+5. The Paris Agreement, adopted in 2015, set the goal of limiting global warming to "well below" 2°C and emphasized the role of developed countries in providing financial support and technology transfers to developing countries.
+
+6. China has pledged to peak emissions before 2030 and achieve carbon neutrality by 2060, while the United States rejoined international efforts under President Joe Biden in 2021.
+
+7. The United Kingdom has taken early action to decrease emissions and position itself as a leader in the transition to a zero-carbon future.
+
+8. The international community recognizes the need to keep global temperature rise below 1.5 degrees Celsius, but current commitments are seen as insufficient to achieve this goal.
+
+9. Efforts are being made to address the consequences of climate change, such as the impacts on wild animals, front-line communities, food production, and water resources.
+
+10. The World Food Programme (WFP) is providing assistance to communities affected by climate disasters and supporting climate adaptation solutions.
+
+Overall, international efforts to combat climate change involve a combination of individual actions, business investments, government commitments, and conservation efforts to reduce emissions, prepare for the impacts of climate change, and protect natural resources. However, there is a recognition that more ambitious action and increased financial support are needed to effectively address this global challenge.

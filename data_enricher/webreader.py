@@ -21,7 +21,9 @@ class WebReader():
         return list(set(urls))
     
     def is_text_content(self, url):
-        return 'text' in self.get_content_type(url)
+        content_type = self.get_content_type(url)
+        self.logger.info(f'Content type: {content_type}')
+        return 'text' in content_type
 
     def get_content_type(self, url): 
         # let's fix this to avoid double requests
