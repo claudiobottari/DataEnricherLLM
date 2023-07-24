@@ -5,8 +5,12 @@ The main goal of DataEnricherLLM is to provide a reliable and efficient method o
 
 DataEnricherLLM fetches relevant information from the web and provides this data to the LLM. By doing so, the project seeks to significantly improve the quality and relevance of LLM-generated text, and provide users with an overall more satisfactory experience.
 
-## More infos
-There's an article on Medium about this project https://bottari.medium.com/rewriting-openai-web-browsing-plugin-from-scratch-d0d1317ae9ba
+## Important
+There's an article on Medium about this project https://bottari.medium.com/rewriting-openai-web-browsing-plugin-from-scratch-d0d1317ae9ba and you may want to check that out if you are interested.
+
+## Quick reference of what is does
+In the article on Medium is explained the high level algo, but this is basically it:
+![Data Enricher Diagram](./docs/DataEnricher.drawio.png)
 
 ## Note
 To make it running it's necessary to create the usual .anv file as follow:
