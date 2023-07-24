@@ -1,0 +1,128 @@
+What are the latest breakthroughs in CRISPR gene editing technology?
+
+--------------------------------------------------------------------------------
+As an AI language model, I can provide you with some recent breakthroughs in CRISPR gene editing technology:
+
+1. Prime Editing: In 2019, researchers developed a new CRISPR-based tool called Prime Editing. It combines CRISPR-Cas9 with a reverse transcriptase enzyme to directly edit DNA without requiring the cell to make a double-stranded DNA break. This technique allows for more precise and efficient editing, including the ability to insert, delete, or replace specific DNA sequences.
+
+2. CRISPR-Cas13: While CRISPR-Cas9 is widely known for its DNA editing capabilities, researchers have also been exploring CRISPR-Cas13, which targets RNA instead of DNA. In 2020, scientists demonstrated the potential of CRISPR-Cas13 to precisely edit RNA, opening up possibilities for treating diseases caused by RNA viruses or genetic disorders related to RNA.
+
+3. CRISPR-Cas9 in Human Embryos: In 2021, researchers successfully used CRISPR-Cas9 to edit genes in human embryos. This breakthrough allowed them to correct a mutation associated with a common heart condition called hypertrophic cardiomyopathy. While this research is still in its early stages and raises ethical concerns, it provides insights into potential future applications of CRISPR in preventing genetic diseases.
+
+4. CRISPR-Cas9 for HIV Treatment: In 2020, scientists used CRISPR-Cas9 to remove HIV-1 DNA from the genomes of living animals, including mice and rats. This breakthrough offers hope for developing a potential cure for HIV by eliminating the viral DNA from infected cells.
+
+5. CRISPR-based COVID-19 Diagnostics: CRISPR technology has been adapted for rapid and accurate COVID-19 testing. Researchers have developed CRISPR-based diagnostic tests that can detect the presence of SARS-CoV-2, the virus causing COVID-19, with high sensitivity and specificity. These tests have the potential to provide faster and more accessible testing options.
+
+It's important to note that CRISPR technology is rapidly evolving, and new breakthroughs are being made regularly.
+
+--------------------------------------------------------------------------------
+
+In the context of the information delimited by <START> and <END> tags, please answer the subsequent question.
+Be as clear and specific as possible, making use of all provided details.
+If you use any information delimited by <START> and <END> tags, please cite the source url which is written between brackets.
+
+Question: What are the latest breakthroughs in CRISPR gene editing technology?
+
+Information:
+<START>
+[https://www.nature.com/articles/s41581-022-00636-2]
+The latest breakthroughs in CRISPR gene editing technology include:
+
+1. Therapeutic genome editing for myotonic dystrophy type 1 using CRISPR/Cas9: Wang et al. (2018) conducted a study on using CRISPR/Cas9 to edit the genome and treat myotonic dystrophy type 1.
+
+2. Genome editing-mediated utrophin upregulation in Duchenne muscular dystrophy stem cells: Sengupta et al. (2020) explored the use of CRISPR/Cas9 to upregulate utrophin in stem cells to potentially treat Duchenne muscular dystrophy.
+
+3. CRISPR-Cas9 mediated gene-silencing of the mutant huntingtin gene in an in vitro model of Huntington's disease: Kolli et al. (2017) investigated the use of CRISPR/Cas9 to silence the mutant huntingtin gene in an in vitro model of Huntington's disease.
+
+4. Generation of App knock-in mice reveals deletion mutations protective against Alzheimer's disease-like pathology: Nagata et al. (2018) used CRISPR/Cas9 to generate knock-in mice with deletion mutations that are protective against Alzheimer's disease-like pathology.
+
+5. CRISPR-Cas9 gene editing for sickle cell disease and beta-thalassemia: Frangoul et al. (2021) conducted a study on using CRISPR/Cas9 gene editing to treat sickle cell disease and beta-thalassemia.
+
+6. Permanent inactivation of Huntington's disease mutation by personalized allele-specific CRISPR/Cas9: Shin et al. (2016) explored the use of personalized allele-specific CRISPR/Cas9 to permanently inactivate the Huntington's disease mutation.
+
+7. CRISPR/Cas9 editing of the mutant Huntingtin allele in vitro and in vivo: Monteys et al. (2017) investigated the use of CRISPR/Cas9 to edit the mutant Huntingtin allele in vitro and in vivo.
+
+8. CRISPR/dCas9-mediated transcriptional inhibition ameliorates the epigenetic dysregulation at D4Z4 and represses DUX4-fl in FSH muscular dystrophy: Himeda et al. (2016) studied the use of CRISPR/dCas9-mediated transcriptional inhibition to treat FSH muscular dystrophy.
+
+9. CRISPR-mediated activation of a promoter or enhancer rescues obesity caused by haploinsufficiency: Matharu et al. (2019) explored the use of CRISPR-mediated activation of a promoter or enhancer to rescue obesity caused by haploinsufficiency.
+
+10. CRISPR-on system for the activation of the endogenous human INS gene: Gimenez et al. (2016) investigated the use of the CRISPR-on system to activate the endogenous human INS gene.
+
+
+<END>
+
+<START>
+[https://www.nature.com/articles/s41581-022-00636-2]
+The latest breakthroughs in CRISPR gene editing technology include the development of CRISPR systems that can repair deficient genes more easily and precisely than before. These systems have been used to knock out harmful mutant genes and fix errors in coding sequences in preclinical studies and clinical trials. However, most genetic disorders require more sophisticated genome engineering strategies beyond simple gene knockout. To overcome this limitation, the toolbox of CRISPR-Cas systems has been expanded to include diverse tools for precise genome editing and epigenome engineering. These tools can edit the non-coding genome, modulate gene regulation, make precise genetic changes, and target infectious diseases. The use of CRISPR technology has the potential to lead to curative therapies for many previously untreatable diseases.
+<END>
+
+<START>
+[https://www.nature.com/articles/s41581-022-00636-2]
+The latest breakthroughs in CRISPR gene editing technology include the discovery of new Cas proteins such as Cas12a, Cas12b, Cas12e, Cas12f, and Cas12j, which have shown promise as gene editors in human cells. Additionally, the discovery of Cas13 proteins has enabled targeted changes to the transcriptome by destroying specific mRNA, without creating heritable changes to the genome. Class I CRISPR-Cas systems, although challenging for delivery and expression, offer increased specificity and diversity for gene editing. Protein engineering techniques have been used to enhance Cas proteins, resulting in improved editing efficiency and specificity. The development of nuclease-dead versions of Cas proteins, such as dCas9, has enabled the use of CRISPR interference (CRISPRi) and CRISPR activation (CRISPRa) for gene regulation. Fusion of dCas9 with repressor or activator domains allows for targeted gene downregulation or upregulation, respectively. Cas proteins can also be fused with nucleotide modifiers to enable precise gene editing, such as base editing enzymes for specific mutations. The prime editing method has been developed to insert longer stretches of DNA for targeted insertions or deletions. Non-coding regions of the genome can also be targeted for gene regulation, such as restoring proper intron splicing, skipping deleterious exons, increasing gene expression by knocking out inhibitory transcription factors, modulating gene dosage by editing long non-coding RNA, and reducing miRNA binding for increased expression of therapeutically relevant genes.
+<END>
+
+<START>
+[https://www.nature.com/articles/s41581-022-00636-2]
+The latest breakthroughs in CRISPR gene editing technology include targeting introns to restore gene expression and correct mutations in diseases such as haemopoietic stem cell replacement, Noonan syndrome-associated cardiomyopathy, cystic fibrosis, and Duchenne muscular dystrophy. Exon skipping using CRISPR-Cas9 can be used to delete entire exons and restore gene function in diseases like Duchenne muscular dystrophy and fusion oncogenes. Targeting untranslated regions (UTRs) can correct diseases like myotonic dystrophy type 1 and Duchenne muscular dystrophy by deleting CTG repeats and targeting miRNA binding sites. Editing cis-regulatory elements, such as promoters, enhancers, and silencers, can correct gene dosages in diseases like sickle cell disease, transfusion dependent b-thalassaemia, and prostate cancer. Non-coding RNAs can be targeted to alter gene expression, such as in Angelman syndrome and cancer. Transcriptional and epigenetic modulation using CRISPRi and CRISPRa can downregulate or upregulate gene expression, respectively, to treat diseases like chronic pain, long QT syndrome, retinitis pigmentosa, and muscular dystrophy. Epigenetic modifications using CRISPR proteins can lead to long-lasting gene silencing or upregulation, offering potential treatments for diseases that require persistent gene perturbation.
+<END>
+
+<START>
+[https://www.nature.com/articles/s41581-022-00636-2]
+The latest breakthroughs in CRISPR gene editing technology include:
+
+1. Targeting of dCas9-TET1 to demethylate CGG repeats in the FMR1 gene, which has shown potential as a therapy for fragile X syndrome.
+2. Fusion proteins comprising dCas9 and TET enzyme catalytic domains have been used to treat cancer and attenuate renal fibrosis.
+3. The catalytic core of the p300 domain fused to dCas9 can modify histones, resulting in activation of gene expression.
+4. Base editing techniques, such as CBEs and ABEs, have been developed to make precise genetic changes and correct point mutations.
+5. Prime editing has the potential to create a wide array of therapeutic genome edits, including precise mutations and insertion of oligonucleotides.
+6. CRISPR-Cas therapies can be used to target viral infections, such as herpes simplex virus, HIV, hepatitis B virus, and human papillomavirus.
+7. Delivery of CRISPR molecules in vivo remains a challenge, but approaches such as AAV, lipid nanoparticles, and virus-like particles are being investigated.
+8. Challenges in CRISPR therapy include off-target effects, improving specificity, and better understanding of non-coding DNA and epigenetic states.
+9. Advances in CRISPR tools, multi-omic methods, and delivery mechanisms suggest the development of curative therapies for many diseases.
+
+Overall, the latest breakthroughs in CRISPR gene editing technology involve targeting specific genes, correcting point mutations, and treating viral infections, with ongoing efforts to improve delivery methods and enhance the safety and efficacy of CRISPR therapies.
+<END>
+
+<START>
+[https://www.nature.com/articles/s41581-022-00636-2]
+The latest breakthroughs in CRISPR gene editing technology include advancements in CRISPR/Cas-based gene therapy for human genetic diseases, the use of CRISPR technology as a potential therapeutic tool for human diseases, and the application of CRISPR in the clinic. There have been developments in non-homologous DNA end joining and alternative pathways to double-strand break repair, as well as the expansion of the genetic editing toolkit with ZFNs, TALENs, and CRISPR-Cas9. Researchers have also made progress in using CRISPR-Cas9 for in vivo gene editing in diseases such as transthyretin amyloidosis. Clinical trials are being conducted to further explore the potential of CRISPR gene editing. Additionally, there have been advancements in base editing, including the development of base editors with improved efficiency and specificity, as well as the ability to perform multiplexed genome regulation. CRISPR technology has also been applied to epigenome editing and RNA modification. Other notable breakthroughs include the use of CRISPR for large DNA sequence editing, twin prime editing, and the restoration of vision loss in genetic diseases such as Leber congenital amaurosis and b-thalassemia. CRISPR gene editing has also shown promise in correcting molecular defects associated with diseases like Noonan syndrome, cystic fibrosis, and Duchenne muscular dystrophy. Furthermore, researchers have explored the use of CRISPR/Cas9 for targeted elimination of cancer cells by targeting fusion oncogenes.
+<END>
+
+<START>
+[https://www.nature.com/articles/s41581-022-00636-2]
+The latest breakthroughs in CRISPR gene editing technology include targeted editing of DNA methylation to downregulate gene expression, such as in the treatment of Parkinson's disease and fragile X syndrome. Researchers have also developed CRISPR-based approaches for targeted DNA demethylation and epigenetic characterization of specific genes. In addition, CRISPR gene editing has shown promise in treating various diseases, including metabolic liver disease, ALS, Duchenne muscular dystrophy, sickle cell disease, HIV, hepatitis B, and cervical cancer. There have also been advancements in using CRISPR to target viral infections, such as herpes simplex virus, Epstein-Barr virus, and human papillomavirus. Delivery strategies for CRISPR/Cas9 systems have been improved, including the use of bacteriophages and lentiviral vectors for targeted delivery. Efforts have also been made to minimize off-target effects and optimize sgRNA design in CRISPR/Cas-mediated genome editing.
+<END>
+
+<START>
+[https://mmrjournal.biomedcentral.com/articles/10.1186/s40779-023-00447-x]
+The latest breakthroughs in CRISPR gene editing technology include the development of base editors, prime editors, and CRISPR-associated transposon (CAST) systems. Base editors, such as cytosine base editors (CBE) and adenine base editors (ABE), can make precise base substitutions without requiring double-stranded DNA breaks (DSBs) or donor DNA templates. These base editors have been improved to expand their genome-targeting range and increase their efficiency. Programmable C-to-G base editors (CGBEs) have also been developed to achieve targeted C-to-G and G-to-C base transversions. However, base editors have off-target effects that need to be reduced for clinical applications.
+
+Prime editing (PE) is a newly developed technology that enables all types of base conversion, small deletions, and insertions. PE consists of a prime editor protein and prime editing gRNA (pegRNA). The PE protein is constructed by fusing an engineered Cas9 nickase with reverse transcriptase, which can be targeted to the genomic locus by pegRNA. PE is more versatile and precise compared to base editing, and various optimized versions of PE have been developed to improve editing efficiency.
+
+CRISPR-associated transposon (CAST) systems facilitate the RNA-guided transposition of mobile genetic elements, allowing for targeted, precise, and efficient insertion of large DNA segments. Different types of CAST systems, such as type I-F and type V-K, have been successfully reconstituted to achieve the integration of donor DNA into specific bacterial genome sites. The FiCAT system, which combines a SpCas9 protein with an engineered piggyBac (PB) transposase, has been developed for targeted integration of multi-kilobase DNA fragments into mammalian cell genomes.
+
+In terms of delivery systems for CRISPRs, various methods have been established for ex vivo delivery of genome editing reagents, while adeno-associated virus (AAV) has been used for in vivo delivery. However, AAV-based delivery has limitations, such as off-target editing and viral vector integration. Alternative strategies, such as lipid nanoparticles (LNP) and virus-like particle (VLP) systems, are being explored for safer and more efficient in vivo delivery of genome editors.
+
+In the field of cardiovascular disease (CVD) research, CRISPR-Cas systems have been used for modeling and treating CVD. In vitro models using human induced pluripotent stem cells (hiPSCs) differentiated into cardiomyocytes have been created through genome editing to study the role of specific genes or mutations in cardiomyopathies. Various gene editing tools, including CRISPR-Cas9, base editors, and prime editors, have been applied to create CVD models in vitro and in vivo. AAV-based delivery systems are commonly used for delivering CRISPR-Cas components to the cardiovascular system.
+<END>
+
+
+--------------------------------------------------------------------------------
+The latest breakthroughs in CRISPR gene editing technology include:
+
+1. Therapeutic genome editing for myotonic dystrophy type 1 using CRISPR/Cas9 [source: https://www.nature.com/articles/s41581-022-00636-2]
+2. Genome editing-mediated utrophin upregulation in Duchenne muscular dystrophy stem cells [source: https://www.nature.com/articles/s41581-022-00636-2]
+3. CRISPR-Cas9 mediated gene-silencing of the mutant huntingtin gene in an in vitro model of Huntington's disease [source: https://www.nature.com/articles/s41581-022-00636-2]
+4. Generation of App knock-in mice reveals deletion mutations protective against Alzheimer's disease-like pathology [source: https://www.nature.com/articles/s41581-022-00636-2]
+5. CRISPR-Cas9 gene editing for sickle cell disease and beta-thalassemia [source: https://www.nature.com/articles/s41581-022-00636-2]
+6. Permanent inactivation of Huntington's disease mutation by personalized allele-specific CRISPR/Cas9 [source: https://www.nature.com/articles/s41581-022-00636-2]
+7. CRISPR/Cas9 editing of the mutant Huntingtin allele in vitro and in vivo [source: https://www.nature.com/articles/s41581-022-00636-2]
+8. CRISPR/dCas9-mediated transcriptional inhibition ameliorates the epigenetic dysregulation at D4Z4 and represses DUX4-fl in FSH muscular dystrophy [source: https://www.nature.com/articles/s41581-022-00636-2]
+9. CRISPR-mediated activation of a promoter or enhancer rescues obesity caused by haploinsufficiency [source: https://www.nature.com/articles/s41581-022-00636-2]
+10. CRISPR-on system for the activation of the endogenous human INS gene [source: https://www.nature.com/articles/s41581-022-00636-2]
+
+Additionally, the latest breakthroughs in CRISPR gene editing technology include the development of CRISPR systems that can repair deficient genes more easily and precisely than before. These systems have been used to knock out harmful mutant genes and fix errors in coding sequences in preclinical studies and clinical trials. The toolbox of CRISPR-Cas systems has been expanded to include diverse tools for precise genome editing and epigenome engineering. The use of CRISPR technology has the potential to lead to curative therapies for many previously untreatable diseases [source: https://www.nature.com/articles/s41581-022-00636-2].
+
+Furthermore, there have been breakthroughs in the discovery of new Cas proteins, such as Cas12a, Cas12b, Cas12e, Cas12f, and Cas12j, which have shown promise as gene editors in human cells. Cas13 proteins have enabled targeted changes to the transcriptome by destroying specific mRNA. Class I CRISPR-Cas systems offer increased specificity and diversity for gene editing. Protein engineering techniques have been used to enhance Cas proteins, resulting in improved editing efficiency and specificity. Nuclease-dead versions of Cas proteins, such as dCas9, have enabled the use of CRISPR interference (CRISPRi) and CRISPR activation (CRISPRa) for gene regulation. Fusion of dCas9 with repressor or activator domains allows for targeted gene downregulation or upregulation, respectively. Cas proteins can also be fused with nucleotide modifiers to enable precise gene editing, such as base editing enzymes for specific mutations. The prime editing method has been developed to insert longer stretches of DNA for targeted insertions or deletions. Non-coding regions of the genome can also be targeted for gene regulation. These breakthroughs offer potential treatments for various diseases [source: https://www.nature.com/articles/s41581-022-00636-2].
+
+Moreover, the latest breakthroughs in CRISPR gene editing technology include targeting introns to restore gene expression and correct mutations in diseases such as haemopoietic stem cell replacement, Noonan syndrome-associated cardiomyopathy, cystic fibrosis, and Duchenne muscular dystrophy. Exon skipping using CRISPR-Cas9 can be used to delete entire exons and restore gene function in diseases like Duchenne muscular dystrophy and fusion oncogenes. Targeting untranslated regions (UTRs) can correct diseases like myotonic dystrophy type 1 and Duchenne muscular dystrophy by deleting CTG repeats and targeting miRNA binding sites. Editing cis-regulatory elements, such as promoters, enhancers, and silencers, can correct gene dosages in diseases like sickle cell disease, transfusion-dependent beta-thalassaemia, and prostate cancer. Non-coding RNAs can be targeted to alter gene expression

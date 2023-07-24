@@ -1,5 +1,5 @@
 import pandas as pd
-import os, time, re
+import os, time, re, traceback
 
 from enricher import Enricher
 from llm_api import LLM_API
@@ -49,8 +49,9 @@ class Benchmark():
         while True:
             try:
                 self.test_benchmark()
-            except:
-                print('Something happened, retrying in 2 minute....')
+            except Exception as ex:
+                traceback.print_exc()
+                print('Retrying in 2 minute....')
                 time.sleep(120)
 
     def test_benchmark(self):
