@@ -17,7 +17,6 @@ Can you provide an overview of the newest models of quantum computers?
 How are countries adapting their infrastructure for the rise of electric vehicles?
 What are the latest trends in sustainable fashion?
 What is the current state of restoration efforts in the Amazon rainforest?
-What is the impact of modern technology on the music industry?
 How have recent advancements in technology affected the film industry?
 What are the latest breakthroughs in CRISPR gene editing technology?
 How is the Internet of Things (IoT) impacting everyday life?
@@ -38,6 +37,7 @@ What are the recent innovations in food production and agriculture to address wo
 What are the latest predictions for the rise in sea levels due to global warming?
 What new vaccines have been developed in the past year?
 How is AI being used to predict and manage natural disasters?
+What is the impact of modern technology on the music industry?
 How have recent advancements in robotics influenced manufacturing processes?
 What are the latest research findings on the correlation between gut health and mental health?
 What are the latest theories about the nature and existence of dark matter?

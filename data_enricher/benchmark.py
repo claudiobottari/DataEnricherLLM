@@ -83,4 +83,4 @@ class Benchmark():
                 time.sleep(120)
 
 if __name__ == '__main__':
-    Benchmark().test_and_retry_benchmark()
+    Benchmark().test_benchmark()

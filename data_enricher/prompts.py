@@ -34,23 +34,6 @@ Format the result in JSON following this template:
 '''
     
     @staticmethod
-    def get_summary_prompt(topic, content):
-        return f'''You have 2 tasks:
-1) extract all the informations related to the topic "{topic}" and write it down in plain english, present the informations without introduction, in a detailed and precise way, without changin the terms and numbers used in the text.\'
-2) measure the relevance of that information to the topic "{topic}"
-
-Present the informations without introduction, in a detailed and precise way, without changin the terms and numbers used in the text.
-
-Write the answer in JSON format using this template:
-    {{
-        "relevance": RELEVANCE,
-        "informations": INFORMATIONS,            
-    }}
-\n
-\'\'\'"{content}"\'\'\'
-'''
-    
-    @staticmethod
     def get_prompted_infos(url, text):
         return f'''
 <START>
