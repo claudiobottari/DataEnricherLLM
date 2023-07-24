@@ -10,6 +10,7 @@ There's an article on Medium about this project https://bottari.medium.com/rewri
 
 ## Quick reference of what is does
 In the article on Medium is explained the high level algo, but this is basically it:
+
 ![Data Enricher Diagram](./docs/DataEnricher.drawio.png)
 
 ## Note
